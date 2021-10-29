@@ -13,7 +13,6 @@ This roadmap aims to give a **complete picture of the modern data engineering la
 
 ***
 
-🔥  [!This content is copy from ] (https://github.com/datastacktv/data-engineer-roadmap)
 
 > [Text version for visually impaired users](text/roadmap.md)
 
@@ -25,3 +24,4 @@ This roadmap aims to give a **complete picture of the modern data engineering la
 
 ![Data Engineer Roadmap Extras](img/extras.png)
 
+🔥  [The origin URL of the content](https://github.com/datastacktv/data-engineer-roadmap)
