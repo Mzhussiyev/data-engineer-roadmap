@@ -1,12 +1,7 @@
 
-![Modern Data Engineer Roadmap 2021](img/title.png)
+![Modern Data Engineer Roadmap 2022](img/title.png)
 
-> Roadmap to becoming a data engineer in 2021
-
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2)](https://twitter.com/datastacktv)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000)](http://youtube.com/c/datastacktv)
-[![Website](https://img.shields.io/badge/-Website-565CD8)](https://datastack.tv/)
-[![Jobs](https://img.shields.io/badge/-Jobs-ffdf4b)](https://datastackjobs.com/)
+> Roadmap to becoming a data engineer in 2022
 
 This roadmap aims to give a **complete picture of the modern data engineering landscape** and serve as a **study guide** for aspiring data engineers.
 
@@ -18,7 +13,7 @@ This roadmap aims to give a **complete picture of the modern data engineering la
 
 ***
 
-🔥  We just launched [**Data Stack Jobs**](https://datastackjobs.com/) — a clean and simple job site for Data Stack Engineers!
+🔥  [!This content is copy from ] (https://github.com/datastacktv/data-engineer-roadmap)
 
 > [Text version for visually impaired users](text/roadmap.md)
 
@@ -30,18 +25,3 @@ This roadmap aims to give a **complete picture of the modern data engineering la
 
 ![Data Engineer Roadmap Extras](img/extras.png)
 
-## Contributions are welcome 💜
-
-Please raise an issue to discuss your suggestions or open a Pull Request to request improvements.
-
-## Reviewers 🔎
-
-Huge thank you to [@whydidithavetobebugs](https://github.com/whydidithavetobebugs), [@sawidis](https://github.com/sawidis), [@marclamberti](https://github.com/marclamberti) and [@mpyeager](https://github.com/mpyeager) for reviewing this roadmap.
-
-## About us 👋🏼
-
-[datastack.tv](https://datastack.tv/) is the learning platform for the modern data stack. We create concise screencast video tutorials for data engineers. [**Browse our courses here!**](https://datastack.tv/courses.html)
-
-## License 🗞
-
-> Copyright © 2021 Alexandra Abbas — <hello@datastack.tv>

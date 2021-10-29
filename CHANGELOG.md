@@ -1,6 +1,6 @@
 ## Roadmap 2021
 
-### Update 2021-01-15
+### Update 2021-10-15
 
 * Added text version for visually impaired users (issue #10)
 * Math & statistics basics have been added to CS fundamentals (issue #22)
@@ -20,4 +20,4 @@
 
 ## Roadmap 2020
 
-[Modern Data Engineer Roadmap 2020](https://github.com/datastacktv/data-engineer-roadmap/tree/8b1ccdce4524961bfd37495de20117c47766b1eb)
+[Modern Data Engineer Roadmap 2020](https://github.com/Mzhussiyev/data-engineer-roadmap)
